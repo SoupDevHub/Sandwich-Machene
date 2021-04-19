@@ -1,4 +1,4 @@
-# Sandwich Machinee
+# Sandwich Machineee
 A python program for generating instructions to make random sandwiches.
 
 
